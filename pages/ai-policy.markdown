@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "AI Policy"
-date:   2026-11-01 09:32:18 -0500
-categories: arena ai
+layout: page
+title: "AI Policy"
+permalink: /ai-policy/
 ---
 Over the past few years, I have used LLMs and AI in many, many projects, with varying degrees of self-discipline and care for the results. I've done very careful professional engineering work with AI assistance as part of my job, and I've produced some absolute vibe-coded slop for my personal amusement or as pure experimentation, and I've done everything in between.
 
