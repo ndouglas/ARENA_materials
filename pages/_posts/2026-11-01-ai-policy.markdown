@@ -14,4 +14,6 @@ I will not use LLMs to generate any code or content or any other text within thi
 
 For instance, that is why the CSS for this blog will remain rather cold and unpleasant. I'm not a frontend developer, I have little skill with visual aesthetics, and I have even less time 🙂
 
-I expect to consult LLMs about the course content and the questions it raises for me numerous times - frankly, Claude and ChatGPT have been invaluable for my personal and professional development over the past few years - but I will never, at any time, direct them to act within this repository or copy and paste content from them into this repository or in any other way introduce any information, content, code, etc that is not my own creation.
+I expect to consult LLMs about the course content and the questions it raises for me numerous times. I expect also to have them critique my writing, reasoning, explanation, interpretation, or code, and I expect I will act in response to the issues they raise.
+
+I will never, at any time, direct them to act within this repository or copy and paste content from them into this repository or in any other way introduce any information, content, code, etc that is not a product of my own judgment, understanding, and creativity.
