@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello!"
 date:   2026-11-01 08:55:18 -0500
-categories: arena ai
+categories: arena
 ---
 Hi!
 
@@ -25,3 +25,5 @@ I've applied for the current cohort of the [Mercial Fellowship](https://mercial.
 But I don't intend to sit idle while I wait to hear back - I am working hard to deepen my skills and my knowledge. This project is one part of that - working through [ARENA](https://www.arena.education/curriculum) independently and in public, documenting my experiences as I go.
 
 (I'm also working on a series of videos about interpretability and ML, through a Nintendo® lens; stay tuned, but I'll report progress on the project's [GitHub](https://github.com/ndouglas/greenstone))
+
+I'll formally start work on this project tomorrow, and I'll update this site as I go. If you read along, I hope you find in it whatever you seek 🙂
