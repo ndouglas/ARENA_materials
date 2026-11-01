@@ -18,6 +18,8 @@ I expect to consult LLMs about the course content and the questions it raises fo
 
 I will never, at any time, direct them to act within this repository or copy and paste content from them into this repository or in any other way introduce any information, content, code, etc that is not a product of my own judgment, understanding, and creativity.
 
+I will proceed through this course in good faith, and this repository will accurately reflect my effort and my learning as I do so 🙂
+
 **EDIT**: In response to critiques by Claude Code:
 - I don't really see an effective way to annotate every single change I make in response to an LLM critique or suggestion and cleanly attribute it to LLMs. I will do so where possible and practical. For instance, this postscript. But CC also pointed out that I forgot the word "honesty" in the third paragraph (ironic) and I don't really see the value of surfacing changes like that in-place. I would suggest that any readers understand this as a personal honor code and not something that I intend to hold up in court 🙂
 - Claude Code also pointed out that it generated the commands that generated the file `requirements-mac.txt` in the root of the repository, which I used to get the basic setup for the first couple of chapters working. That is arguably a violation of the rules I've described above. My counterargument, which you may accept or reject, is that I added the file to the `.gitignore` and therefore it's not really entering the repository and will not be presented as something that may or may not be my sole creation. And so it's not relevant. But reasonable people and models may disagree.
