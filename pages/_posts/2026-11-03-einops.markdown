@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Einops (0.0)"
+date:   2026-11-03 22:15:18 -0500
+categories: arena
+---
+Holy crap, how did I not know about Einops before now?
+
+I went through the [tutorial](https://einops.rocks/1-einops-basics/) today - or tried to, while watching the election results - and it was a bit of an overwhelming experience. Part of that is that this has already been [an incredible day](https://darkdell.net/blog/apart/).
+
+But more than that, reading through the tutorial, I realized that I haven't been taking advantage of the incredible tools that we have. I've missed out on so much over the years by not exploring Python!
+
+Today (11/04), I worked through the [Einops basics](https://github.com/BottomUpAI/notebooks/blob/main/einops-basics/einops-basics.ipynb) again, and then [Einsum is all you need](https://rockt.github.io/2018/04/30/einsum). The former was great fun! The latter took a good amount of thought to understand what was going on at first, but I feel like it's sinking in a bit. It's shocking to me how beautiful and powerful things like this can be.
