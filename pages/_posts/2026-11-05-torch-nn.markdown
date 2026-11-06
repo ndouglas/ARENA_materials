@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "torch.nn (0.0)"
+date:   2026-11-05 17:21:18 -0500
+categories: arena
+---
+I'm still kind of getting situated here and figuring out how I'm going to work. I'm working on building a new website, [Bottom-Up Labs](https://bottomuplabs.ai), that's dedicated to my exploration of various AI topics. Yesterday, I posted [Einops basics](https://bottomuplabs.ai/notebooks/einops-basics/) there.
+
+Today (11/05) I completed [What is `torch.nn` _really_?](https://bottomuplabs.ai/notebooks/torch-nn-really/), which is an introduction to PyTorch's neural network modules, classes, etc. Embarrassing to admit, but I haven't really worked much with it before, just some tinkering. It was really neat to see how simply models can be trained, modified, etc, especially with switching from a simple neural network to a convolutional neural network.
+
+I'm also working through the first notebook of a series I'm working on about interpretability, using NES games: [Meet Mario](https://github.com/BottomUpAI/notebooks/blob/main/nes/00-meet-mario.ipynb). It's not finished, and I ran out of time today, but it's coming!
