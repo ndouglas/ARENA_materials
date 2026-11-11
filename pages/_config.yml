@@ -22,8 +22,8 @@ title: Nathan Douglas' ARENA
 email: arena@darkdell.net
 description: >-
   Nathan Douglas' journey through ARENA, November 2026
-baseurl: "/ARENA_materials"
-url: "https://ndouglas.github.io"
+baseurl: ""
+url: "https://arena.bottomuplabs.ai"
 github_username:  ndouglas
 
 # Build settings
