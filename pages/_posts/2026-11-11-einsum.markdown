@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Einsum (0.0)"
+date:   2026-11-11 14:04:18 -0500
+categories: arena
+---
+Today's 11/11, Veteran's Day, and I have the day off. So I spent a good chunk of it on ARENA, finishing up 0.0, part 2, which was some remaining Torch stuff and Einsum. If you've read since the beginning, you know that I never took linear algebra in college and am only doing that now, as part of this overall professional development. That said, this isn't incredibly difficult yesterday, so with a mild headache and some perseverance, I was able to complete it.
+
+I'm acutely conscious, though, of each time I press the "I believe" button.
+
+Maybe I should explain that term. When I was in the US Navy's nuclear power training program, a quarter-century ago, we young sailors would have questions from time to time. The teachers were excellent and would do their best to explain, but at some point, if the confusion wasn't resolved, they would have to cut it off in the interest of making forward progress. At that time, you might hear the beleagered petty officer say, "look, just press the 'I believe' button." And generally, their judgment was pretty good - either it didn't matter or or it would click. Either way, it was fine.
+
+But pressing that button is an uncomfortable thing for me. Some things never click for me, and some things click but I forget them. As I continue working through improving my mathematical skill, getting into higher math, I find myself running into a lot of topics where I think, "you know, I never did really understand that concept..." I saw diagrams and graphs, I solved problems, I took tests, I got grades - but I didn't capture its essential nature.
+
+I don't intend on letting these things just slip away from me anymore.
+
+So I've added a number of additional notebooks to my queue to complete alongside ARENA - more on Einops, Einsum, PyTorch, NumPy, etc. You should see them start popping up on [BottomUp Labs](https://bottomuplabs.ai/notebooks/), probably in a new folder.
+
+So that makes 7 of 98 parts, averaging 4.2 a week, which projects a finish around Apr 11, 2027. Which is still substantially later than I'd like. Aside from health issues, I have been going faster, so I'm still hoping for a finish in February if not earlier. Not that I'm trying to rush through or anything.
+
