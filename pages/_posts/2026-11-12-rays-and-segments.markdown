@@ -19,3 +19,4 @@ I imagine this probably looks like pretty unimpressive progress from the outside
 - Refined my current processes further
 - Wrote this blog article 😉
 
+That's not to say I'm entirely satisfied - for one, I'm still up at 10PM, and there are still some things I didn't get done that I wanted to get done... but this is pretty good. I am doing another Apart Research sprint this weekend, though, so the challenges continue.
