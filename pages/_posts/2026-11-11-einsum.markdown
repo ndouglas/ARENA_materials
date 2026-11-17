@@ -4,7 +4,7 @@ title:  "Einsum (0.0)"
 date:   2026-11-11 14:04:18 -0500
 categories: arena
 ---
-Today's 11/11, Veteran's Day, and I have the day off. So I spent a good chunk of it on ARENA, finishing up 0.0, part 2, which was some remaining Torch stuff and Einsum. If you've read since the beginning, you know that I never took linear algebra in college and am only doing that now, as part of this overall professional development. That said, this isn't incredibly difficult yesterday, so with a mild headache and some perseverance, I was able to complete it.
+Today's 11/11, Veteran's Day, and I have the day off. So I spent a good chunk of it on ARENA, finishing up 0.0, part 2, which was some remaining Torch stuff and Einsum. If you've read since the beginning, you know that I never took linear algebra in college and am only doing that now, as part of this overall professional development. That said, this isn't incredibly difficult, so with a mild headache and some perseverance, I was able to complete it.
 
 I'm acutely conscious, though, of each time I press the "I believe" button.
 
