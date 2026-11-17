@@ -8,4 +8,4 @@ I'm still kind of getting situated here and figuring out how I'm going to work. 
 
 Today (11/05) I completed [What is `torch.nn` _really_?](https://bottomuplabs.ai/notebooks/torch-nn-really/), which is an introduction to PyTorch's neural network modules, classes, etc. Embarrassing to admit, but I haven't really worked much with it before, just some tinkering. It was really neat to see how simply models can be trained, modified, etc, especially with switching from a simple neural network to a convolutional neural network.
 
-I'm also working through the first notebook of a series I'm working on about interpretability, using NES games: [Meet Mario](https://github.com/BottomUpAI/notebooks/blob/main/nes/00-meet-mario.ipynb). It's not finished, and I ran out of time today, but it's coming!
+I'm also working through the first notebook of a series I'm working on about interpretability, using NES games: [Meet Mario](https://github.com/BottomUpAI/notebooks/blob/main/nes-and-interpretability/nes/00-meet-mario.ipynb). It's not finished, and I ran out of time today, but it's coming!
