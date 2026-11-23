@@ -16,6 +16,6 @@ It does make sense - a triangle for each ray - but that's not how the linear alg
 
 At the end, I was left with this:
 
-![pikachu](/assets/images/pikachu.png)
+![pikachu](/assets/images/2026-11-14-01-pikachu.png)
 
 The reward I had anticipated! 🙂
