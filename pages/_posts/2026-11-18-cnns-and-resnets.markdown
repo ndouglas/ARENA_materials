@@ -61,3 +61,7 @@ I knew _in theory_ how the prediction works - you take an argmax over the logits
 I blame it on the simplicity of the interface. It's still continually shocking to me how _simple_ the broad strokes of machine learning are. There's obviously a lot I still don't grok (like, you know, anything beyond the broad strokes), but it's all shockingly elegant.
 
 When I took an AI class in college - and was one of very few students in the class, mind you - neural networks seemed a bit ephemeral. Part of that was that my professor downplayed them and seemed irritated even to have to bring them up. But then, he was a deeply unpleasant man and that impacted _everything_ he taught. For all I know, he's at a frontier lab now.
+
+Anyway, I felt much better once I saw this:
+
+![No, this is.](/assets/images/2026-11-18-03-no-this-is.png)
